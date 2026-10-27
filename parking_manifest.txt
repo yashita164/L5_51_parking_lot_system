@@ -1,0 +1,3 @@
+P01: plate=, hours=0, rate=20.0, occupied=False
+P02: plate=DL03GH3456, hours=3, rate=20.0, occupied=True
+P03: plate=MH02EF9012, hours=4, rate=30.0, occupied=True
